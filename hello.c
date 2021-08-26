@@ -11,6 +11,7 @@
      
     printf("Hanna Tran!\n");
     printf("Computer Science\n");
+    //add name and majior
     
     return 0;
  }
